@@ -4,7 +4,7 @@ Lag et register for motorvogner. Det skal være mulig å lagre motorvogner (bile
 
 ---
 
-<img src="https://github.com/sirin-koca/motorvogn/blob/main/src/main/resources/motorvogn.jpg">
+<img src="https://raw.githubusercontent.com/sirin-koca/MotorvognAPI/main/src/main/resources/motorvogn.jpg">
 
 ---
 
