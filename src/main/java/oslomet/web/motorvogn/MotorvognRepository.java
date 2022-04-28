@@ -28,9 +28,9 @@ public class MotorvognRepository {
 
     public List<Motorvogn> hentAlleMotorvogn() {
         String sql = "SELECT * FROM Motorvogn";
-        List<Motorvogn> alleBiletter = db.query(sql,
+        List<Motorvogn> alleMotorvogn = db.query(sql,
                 new BeanPropertyRowMapper(Motorvogn.class));
-        return alleBiletter;
+        return alleMotorvogn;
     }
 
     public void slettAlleMotorvogn() {
